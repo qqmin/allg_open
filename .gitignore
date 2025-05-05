@@ -1,0 +1,13 @@
+*.pth
+*.ckpt
+*.pyc
+__pycache__/
+input/
+output_tmp/
+output_archive/
+weights/
+*.png
+*.jpg
+*.bmp
+*.txt
+*.csv
